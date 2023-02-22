@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilejk&label=Profile%20views&color=0e75b6&style=flat" alt="ilejk" /> </p>
 
@@ -17,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ilejkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilejkkk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adrian-skiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-skiba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilejk&show_icons=true&locale=en&layout=compact" alt="ilejk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilejk&show_icons=true&locale=en" alt="ilejk" /></p>
+
