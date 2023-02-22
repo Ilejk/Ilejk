@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">I am a graduate in English Philology and currently programming as well as still learning to program mobile applications using flutter and dart. I am also a Formula 1 fan.</h3>
+<h3 align="center">I am an English Philology graduate and I'm currently creating as well as still learning how to program mobile applications using flutter and dart. I am also a Formula 1 fan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilejk&label=Profile%20views&color=0e75b6&style=flat" alt="ilejk" /> </p>
 
