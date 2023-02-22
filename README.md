@@ -1,6 +1,30 @@
-- 👋 Hi, I’m Adrian
-- 👀 I’m interested in F1, art, business and a lot of other stuff
-- 🌱 I’m currently learning flutter / dart / python / swift
-- 📫 How to reach me twitter
+<h1 align="center">Hi 👋, I'm Adrian</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilejk&label=Profile%20views&color=0e75b6&style=flat" alt="ilejk" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilejk" alt="ilejk" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/ilejkkk" target="blank"><img src="https://img.shields.io/twitter/follow/ilejkkk?logo=twitter&style=for-the-badge" alt="ilejkkk" /></a> </p>
+
+- 🔭 I’m currently working on [Game It Out](https://github.com/Ilejk/game_it_out)
+
+- 🌱 I’m currently learning **Flutter/Dart/Swift**
+
+- 💬 Ask me about **anything :)**
+
+- 📫 How to reach me **adrianskibaa@gmail.com**
+
+- ⚡ Fun fact **I’m interested in F1, art, business and a lot of other stuff**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ilejkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilejkkk" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilejk&show_icons=true&locale=en&layout=compact" alt="ilejk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilejk&show_icons=true&locale=en" alt="ilejk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilejk&" alt="ilejk" /></p>
