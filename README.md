@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ilejkkk" target="blank"><img src="https://img.shields.io/twitter/follow/ilejkkk?logo=twitter&style=for-the-badge" alt="ilejkkk" /></a> </p>
 
-- 🔭 I’m currently working on [Fitness.io](https://github.com/Ilejk/fitnessio)
+- 🔭 I’m currently working on [GameItOut](https://github.com/Ilejk/game_it_out)
 
 - 🌱 I’m currently learning **Flutter/Dart/Swift**
 
