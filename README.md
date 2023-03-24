@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ilejkkk" target="blank"><img src="https://img.shields.io/twitter/follow/ilejkkk?logo=twitter&style=for-the-badge" alt="ilejkkk" /></a> </p>
 
-- 🔭 I’m currently working on [GameItOut](https://github.com/Ilejk/game_it_out)
+- 🇵🇱 **Polish/English,   🇮🇹 => learning**   
 
-- 🌱 I’m currently learning **Flutter/Dart/Swift**
+- 🌱  **Flutter/Dart/Swift**
 
-- 📫 How to reach me **adrianskibaa@gmail.com**
+- 📫  **adrianskibaa@gmail.com**
 
-- ⚡ Fun fact **I’m interested in F1, art, business and a lot of other stuff**
+- ⚡  **I’m interested in F1, art, history, business and a lot of other stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
