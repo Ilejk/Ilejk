@@ -7,7 +7,7 @@
 
 - 🇵🇱 **Polish/English,   🇮🇹 => learning**   
 
-- 🌱  **Flutter/Dart/Swift**
+- 🌱  **Flutter/Dart**
 
 - 📫  **adrianskibaa@gmail.com**
 
