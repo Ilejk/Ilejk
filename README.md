@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ilejkkk" target="blank"><img src="https://img.shields.io/twitter/follow/ilejkkk?logo=twitter&style=for-the-badge" alt="ilejkkk" /></a> </p>
 
-- 🇵🇱 **Polish/English,   🇮🇹 => learning**   
+- 🇵🇱 **Polish/🇬🇧 English,   🇮🇹 => learning**   
 
 - 🌱  **Flutter/Dart**
 
