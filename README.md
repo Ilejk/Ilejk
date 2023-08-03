@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilejk&label=Profile%20views&color=0e75b6&style=flat" alt="ilejk" /> </p>
 <p align="left"> <a href="https://twitter.com/ilejkkk" target="blank"><img src="https://img.shields.io/twitter/follow/ilejkkk?logo=twitter&style=for-the-badge" alt="ilejkkk" /></a> </p>
 
 - 🇵🇱 **Polish/🇬🇧 English,   🇮🇹 => learning**   
